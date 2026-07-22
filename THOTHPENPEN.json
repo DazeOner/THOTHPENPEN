@@ -4,11 +4,11 @@
   "description": "THOTHPENPEN",
   "images": [
     {
-      "type": "icon",
+      "size": "48x48",
       "data": "https://raw.githubusercontent.com/DazeOner/THOTHPENPEN/main/IMAGE%202026-07-22%2012%3A42%3A21%20copy.png"
     },
     {
-      "type": "large",
+      "size": "400x560",
       "data": "https://raw.githubusercontent.com/DazeOner/THOTHPENPEN/main/IMAGE%202026-07-22%2012%3A42%3A21.jpg"
     }
   ]
