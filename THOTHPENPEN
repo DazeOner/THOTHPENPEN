@@ -1,0 +1,15 @@
+{
+  "asset": "THOTHPENPEN",
+  "name": "THOTHPENPEN",
+  "description":
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/DazeOner/THOTHPENPEN/main/IMAGE%202026-07-22%2012%3A42%3A21%20copy.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/DazeOner/THOTHPENPEN/main/IMAGE%202026-07-22%2012%3A42%3A21.jpg"
+    }
+  ]
+}
